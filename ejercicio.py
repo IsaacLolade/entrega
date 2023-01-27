@@ -20,7 +20,7 @@ while True:
         s = 0
         my = 0
         mn = 0
-        d = 0
+        d = 1
         for i in pswd:
             if i.isspace()==True:
                 s += 1
