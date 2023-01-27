@@ -31,7 +31,7 @@ while True:
             if i.isdigit()==True:
                 d += 1
         if s >= 1:
-            print("¡ERROR  ! La contraseña no puede contener espacios.")
+            print("¡ERROR! La contraseña no puede contener espacios.")
             break
         elif my < 1:
             print("¡ERROR! La contraseña debe contener mayusculas.")
