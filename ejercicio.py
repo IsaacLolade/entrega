@@ -43,8 +43,8 @@ while True:
             print("¡ERROR! La contraseña debe contener números.")
             break
         else:
-            print("Bienvenido",name)
-            print("Su contraseña es jujujuh",pswd)
+            print("Bienvenido petardo ",name)
+            print("Su contraseña es",pswd)
             break
     else:
         break
