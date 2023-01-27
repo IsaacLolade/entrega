@@ -31,7 +31,7 @@ while True:
             if i.isdigit()==True:
                 d += 1
         if s >= 1:
-            print("¡ERROR! La contraseña no puede contener espacios.")
+            print("¡ERROR  ! La contraseña no puede contener espacios.")
             break
         elif my < 1:
             print("¡ERROR! La contraseña debe contener mayusculas.")
@@ -43,7 +43,7 @@ while True:
             print("¡ERROR! La contraseña debe contener números.")
             break
         else:
-            print("Bienvenido petardo ",name)
+            print("Bienvenido ",name)
             print("Su contraseña es",pswd)
             break
     else:
